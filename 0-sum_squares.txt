@@ -2,6 +2,6 @@ Start
   Out put "Input numbers"
 Input a, b, c
   S1= a*a, S2= b*b, S3= c*c
-sum <- S1 + S2+ S3
+  sum <- S1 + S2+ S3
   Out put "The sum is" sum
   End
